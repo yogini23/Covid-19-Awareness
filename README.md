@@ -1,1 +1,1 @@
-# Covid-19-Awareness
+# COE_S35_Boilerplate
